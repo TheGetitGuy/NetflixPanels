@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 :root{
+    font-family: 'Aboreto', cursive;
     color: #fff;
     width: 100%;
 }
